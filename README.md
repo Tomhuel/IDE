@@ -6,11 +6,11 @@
 ## Introducción
 Este repositorio está destinado a escribir la instalación de los diferentes IDE's en Ubuntu 20.04
 
-Netbeans-8.md
-NEtbeans-12.md
-Eclipse.md
-Intelij.md
-VS-Code.md
+Netbeans8.md <br/>
+NEtbeans12.md <br/>
+Eclipse.md <br/>
+Intelij.md <br/>
+VS-Code.md <br/>
 
 ## Requisitos
 
